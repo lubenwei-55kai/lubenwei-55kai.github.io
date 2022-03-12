@@ -3,7 +3,7 @@
   <entry>
     <title>Hello World</title>
     <url>/2022/03/11/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
@@ -19,22 +19,22 @@
 ]]></content>
   </entry>
   <entry>
+    <title>小云你妈死了</title>
+    <url>/2022/03/12/%E5%B0%8F%E4%BA%91%E4%BD%A0%E5%A6%88%E6%AD%BB%E4%BA%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>小云你妈死了小云你妈死了小云你妈死了</p>
+]]></content>
+      <tags>
+        <tag>傻逼小云</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>鼠辈</title>
     <url>/2022/03/11/%E6%99%9A%E9%A3%8E/</url>
-    <content><![CDATA[<p>鼠辈</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>鼠辈</p>
 <p>短信提示响了一下<br>告知我该交话费了<br>几十而已花出去怎么会心疼啊<br>屏幕碎掉十个月了<br>只聊QQ 都会很卡<br>我当然也想要换新的啊<br>室内温度不会说话<br>沉默中保持着零下<br>寒风让我发抖渴望一台空调啊<br>傻瓜和胆小鬼一样都需要挣扎<br>赚钱真的好难啊<br>我喜欢她 该拿什么去争取啊<br>卖肾都不够塞牙<br>看着房价 怎么会有别的想法<br>绝望中把眼泪流下<br>头皮发麻 我曾幻想统帅天下<br>现在向现实跪下<br>让她和我挤公交吗<br>说我爱你爱个瓜<br>醒醒吧 不要做梦了<br>理想成熟不再远大<br>认命读作活在当下<br>年轻人似乎就该被这社会压榨吗<br>浮躁风气不断哄抬幸福的标价<br>租房住不算是有家<br>相逢路狭 上位要把别人踹下<br>鼠辈 一直都在爬<br>苦海无涯 生活不停把我追杀<br>我想停却不能停下<br>拼命去划 难道还有别的办法<br>要我相信公平吗<br>付出几十年血汗挥洒<br>不如他爹一句话<br>一开始 就分了高下<br>人一出生就注定了三六九等<br>自欺是唯一止疼<br>平凡是真·····<br>平凡的人是真的可怜<br>哪里存在什么竞争<br>鼠辈没赢的可能<br>咬紧牙 也漏出哭声<br>这人间 是那么的冷……​</p>
 ]]></content>
       <tags>
         <tag>老鼠人</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>小云你妈死了</title>
-    <url>/2022/03/12/%E5%B0%8F%E4%BA%91%E4%BD%A0%E5%A6%88%E6%AD%BB%E4%BA%86/</url>
-    <content><![CDATA[<p>小云你妈死了小云你妈死了小云你妈死了</p>
-]]></content>
-      <tags>
-        <tag>傻逼小云</tag>
       </tags>
   </entry>
 </search>
